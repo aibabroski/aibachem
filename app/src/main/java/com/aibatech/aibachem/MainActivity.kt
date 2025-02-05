@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             AibachemTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Aiba batya",
+                        name = "aibabroski",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
